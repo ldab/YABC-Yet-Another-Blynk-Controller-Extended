@@ -20,4 +20,4 @@
 </li>
 <li>Enjoy my app!</li>
 </ol>
-<p style="text-align: center;"><img src="https://image.ibb.co/hZ9Afe/Screenshot_20180803_114522_Blynk.jpg" alt="" width="188" height="334" />&nbsp;<img src="https://image.ibb.co/iqMO0e/Screenshot_20180803_114526_Blynk.jpg" alt="" width="188" height="334" />&nbsp;<img src="https://image.ibb.co/f1NVfe/clone_1181297599.png" alt="" width="230" height="230" /></p>
+<p style="text-align: center;"><img src="https://image.ibb.co/hZ9Afe/Screenshot_20180803_114522_Blynk.jpg" alt="" width="188" height="334" />&nbsp;<img src="https://image.ibb.co/d0RbwK/Screenshot_20180808_122157_Blynk.jpg" alt="" width="188" height="334" />&nbsp;<img src="https://image.ibb.co/jQSS3z/clone_1181297599.png" alt="" width="230" height="230" /></p>
