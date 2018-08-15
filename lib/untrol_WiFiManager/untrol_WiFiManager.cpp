@@ -6,6 +6,7 @@
    http://www.esp8266.com/viewtopic.php?f=29&t=2520
    https://github.com/chriscook8/esp-arduino-apboot
    https://github.com/esp8266/Arduino/tree/master/libraries/DNSServer/examples/CaptivePortalAdvanced
+   Adapted by Leonardo Bispo https://github.com/ldab
    Built by AlexT https://github.com/tzapu
    Licensed under MIT license
  **************************************************************/
