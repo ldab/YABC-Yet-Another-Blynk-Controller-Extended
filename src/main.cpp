@@ -71,9 +71,9 @@ uint32_t colorToBlink = COLOR_BLACK;
 #define BOARD_BUTTON_PIN  0             // Pin where user button is attached
 #define SDA_PIN           12
 #define SCL_PIN           14
-#define RLY1_PIN          4
+#define RLY1_PIN          15
 #define RLY2_PIN          5
-#define RLY3_PIN          15
+#define RLY3_PIN          4
 
 #define DEC_PL            1             //decimal places for String conversion'
 
