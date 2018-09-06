@@ -1,11 +1,14 @@
 # YABC-Yet-Another-Blynk-Controller-Extended
 <h4>Extended version of a Cloud Controller based on ESP8266 and Blynk - Yet Another Blynk Controller a ESP8266 based 3x relay controller with Blynk APP. Control temperature, humidity and others thru the Cloud</h4>
+
+<p><img src="https://cdn.tindiemedia.com/images/resize/LIMH13tBrkOLP8cmdD66iqpP88c=/p/fit-in/774x516/filters:fill(fff)/i/348611/products/2018-08-15T21%3A33%3A47.070Z-Cloud%20wifi%20temperature%20humidity%20controller%20blynk%20YACC%20esp8266.jpg" alt="" width="320" height="213" /></p>
+
 <ul>
 <li>YABC can be found at:&nbsp;<a href="http://untrol.io/" rel="nofollow">untrol.io</a>&nbsp;and&nbsp;<a href="https://www.tindie.com/" rel="nofollow">Tindie</a></li>
 <li>This is an extended version of Blynk App you will need to buy some energy as the App requires 4,400 energy points, you'll find a simpler version at:&nbsp;<a href="https://github.com/ldab/YABC-Yet-Another-Blynk-Controller-SIMPLE" target="_blank" rel="noopener">YABC Simple</a>&nbsp;and you won't need to buy energy initially.</li>
 </ul>
-<p><a href="https://www.tindie.com/stores/lbispo/?ref=offsite_badges&amp;utm_source=sellers_lbispo&amp;utm_medium=badges&amp;utm_campaign=badge_medium"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78" /></a></p>
-<p>&nbsp;</p>
+
+<p><a href="https://www.tindie.com/stores/lbispo/?ref=offsite_badges&amp;utm_source=sellers_lbispo&amp;utm_medium=badges&amp;utm_campaign=badge_medium"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78" /></a>
 
 <p>The firmware has been writen using PlatformIO which is a nice, neat IDE, check it out:&nbsp;<a href="https://platformio.org/platformio-ide" rel="nofollow">Learn how to install PlatformIO IDE</a></p>
 <p>If you're feeling brave and want to customize or improve the Firmware Over the Air (OTA), check this link:&nbsp;<a title="Over-the-Air (OTA) update" href="http://docs.platformio.org/en/latest/platforms/espressif8266.html#over-the-air-ota-update" rel="nofollow">Over-the-Air (OTA) update</a>&nbsp;basically you change your sketch and upload it by running the following line on PlatformIO terminal:</p>
